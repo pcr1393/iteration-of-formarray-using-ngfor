@@ -1,0 +1,111 @@
+[
+      {
+        "first_name": "Ketan",
+        "last_name": "Kumbhar",
+        "email": "ketankumb@gmail.com",
+        "dept": "IT",
+        "status": "Inactive",
+        "target": "100",
+        "completed": 12
+
+
+      },
+      {
+        "first_name": "Namrata",
+        "last_name": "Wadhwa",
+        "email": "namratkwadh@gmail.com",
+        "dept": "Sales",
+        "status": "Active",
+        "target": "90",
+        "completed": 88
+
+
+      },
+      {
+        "first_name": "Aditya",
+        "last_name": "Mandhana",
+        "email": "adityam@gmail.com",
+        "dept": "Sales",
+        "status": "Inactive",
+        "target": "80",
+        "completed": 66
+
+      },
+      {
+        "first_name": "Ketan",
+        "last_name": "Kini",
+        "email": "ketank@gmail.com",
+        "dept": "IT",
+        "status": "Active",
+        "target": "66",
+        "completed": 44
+
+
+      },
+      {
+        "first_name": "Bharati",
+        "last_name": "Govekar",
+        "email": "bharatig@gmail.com",
+        "dept": "Sales",
+        "status": "Inactive",
+        "target": "56",
+        "completed": 67
+
+
+      },
+      {
+        "first_name": "Ketan",
+        "last_name": "Kumbhar",
+        "email": "ketankumb@gmail.com",
+        "dept": "Sales",
+        "status": "Inactive",
+        "target": "99",
+        "completed": 45
+
+
+      },
+      {
+        "first_name": "Namrata",
+        "last_name": "Wadhwa",
+        "email": "namratkwadh@gmail.com",
+        "dept": "Sales",
+        "status": "Active",
+        "target": "78",
+        "completed": 78
+
+
+      },
+      {
+        "first_name": "Aditya",
+        "last_name": "Mandhana",
+        "email": "adityam@gmail.com",
+        "dept": "Marketing",
+        "status": "Inactive",
+        "target": "90",
+        "completed": 56
+
+      },
+      {
+        "first_name": "Ketan",
+        "last_name": "Kini",
+        "email": "ketank@gmail.com",
+        "dept": "Marketing",
+        "status": "Active",
+        "target": "99",
+        "completed": 67
+
+
+      },
+      {
+        "first_name": "Bharati",
+        "last_name": "Govekar",
+        "email": "bharatig@gmail.com",
+        "dept": "Marketing",
+        "status": "Inactive",
+        "target": "67",
+        "completed": 22
+
+
+      }
+
+    ]
